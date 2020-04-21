@@ -1,0 +1,6 @@
+A ARCA possui dois departamentos de gerência:
+• O Conselho de Administração, constituído pelo CEO, o COO, o CFO, o CTO e o CIO, sendo este último subordinado ao CTO;
+• O departamento de Gestão e Direção, constituído por um gestor de infraestrutura, um gestor de negócios, um diretor de marketing, um conjunto de contabilistas e um conjunto de supervisores de staff.
+O CFO é responsável pelos contabilistas. Os mesmos estão encarregues da declaração das vendas da empresa à Autoridade Tributária através da interface de declaração de vendas disponibilizada por esta.
+Os funcionários da empresa (o Staff) desempenham dois papéis: venda e manutenção de hardware/software. Estão especializados em: técnicos de substituição de dispositivos POS, vendedores ambulantes e vendedores estáticos, sendo que estes dois últimos constituem a equipa de vendas da empresa.
+O staff é controlado por uma equipa de supervisores.
