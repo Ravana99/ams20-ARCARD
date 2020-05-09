@@ -1,1 +1,8 @@
-Através da ARCAPP, um cliente cria uma conta ARCARD que gera um QR Code único. Clientes que estejam registados podem explorar o catálogo de produtos disponíveis (com o auxílio do serviço de gestão de produtos, que disponibiliza a informação de catálogo) e podem comprar créditos ARCALIBRA. Opcionalmente, a primeira pode envolver a compra efetiva de produtos, que por sua vez inclui adicionar produtos ao carrinho de compras e mostrar ao vendedor o QR Code associado à conta, a ser lido pelo leitor de QR Codes do POS que o vendedor possui. O gestor de créditos não só é um interveniente na compra de créditos ARCALIBRA como também na obtenção de informação dos mesmos (saldo disponível). O gestor de transações gera as faturas virtuais e permite o registo no histórico de transações passadas. Por fim, o gestor de cookies gera as cookies provenientes da utilização da aplicação.
+Através da ARCAPP, um cliente pode criar uma conta ARCARD.
+A criação da conta leva a geração de um QR code único.
+Clientes que estejam registados podem explorar o catálogo de produtos disponíveis de forma a escolherem produtos para possivelmente adquirir.
+Opcionalmente, esta atividade pode envolver também a compra efetiva de produtos.
+A compra de produtos inclui duas atividades, sendo que a primeira destas é adicionar produtos ao carrinho.
+Depois do cliente adicionar os produtos ao carrinho, o cliente finaliza a compra, sendo também necessária a intervenção do leitor de QR codes de um POS.
+Clientes registados podem também comprar créditos ARCALIBRA, usados para efetuar compras na aplicação.
+Por fim, um técnico de manutenção pode também executar manutenção preditiva, se receber informação para tal do serviço de manutenção preditiva.

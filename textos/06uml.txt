@@ -1,1 +1,8 @@
-Os casos de uso dos POS são os seguintes. Em primeiro lugar, o vendedor pode iniciar uma leitura de QR code a ser realizada pelo POS, QR code este que é disponibilizado pelo cliente. O vendedor pode também dar ordem de impressão da fatura associada à última transação efetuada. O serviço de manutenção preditiva recebe os dados do estado do dispositivo emitidos por este e, baseados nestes dados, os técnicos de manutenção podem efetuar manutenção dos dispositivos caso seja necessário. Uma ligação wi-fi fornece rede ao dispositivo, para que este possa comunicar com os serviços em linha, nomeadamente o serviço de gestão de transações, que recebe informações sobre determinada transação do POS. Finalmente, a informação relacionada com o estado do stock é enviada e recebida por um mapeador da base de dados do sistema.
+O vendedor pode executar uma venda no POS, sendo necessária a intervenção do cliente.
+A execução da venda inclui iniciar uma leitura de QR code a ser realizada pelo POS, QR code este que é disponibilizado pelo cliente.
+O vendedor pode também dar ordem de impressão da fatura associada à última transação efetuada.
+O serviço de manutenção preditiva recebe os dados do estado do dispositivo emitidos por este.
+Baseados nestes dados, os técnicos de manutenção podem efetuar manutenção dos dispositivos caso seja necessário.
+Uma ligação wi-fi fornece rede ao dispositivo, para que este possa comunicar com os serviços em linha.
+Um destes serviços em linha é o serviço de gestão de transações, que recebe informações sobre determinada transação do POS.
+Finalmente, a informação relacionada com o estado do stock é enviada e recebida por um mapeador da base de dados do sistema.
