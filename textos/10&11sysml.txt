@@ -1,0 +1,6 @@
+O POS é composto por um CPU que comunica com com o Leitor de QR Code, com a Impressora, o sensor de wifi e com o ecrã tátil.
+O ecrã tátil é responsável por receber informação e enviá-la para o CPU para ser executada. Este também comunica com o exterior para que se possa visualizar o feedback.
+O leitor de QR Code recebe informação sobre o QR Code para este ser processado.
+Para que o POS consiga comunicar com os servidores em linha é necessário que o sensor de wifi receba o sinal de wifi e transmita a rede à placa de rede. Esta também comunica com o CPU.
+A impressora tem a seu cargo a impressão da fatura para o vendedor depois entregar ao cliente.
+Todas estas componentes, CPU, leitor de QR Code, impressora, sensor de wifi e ecrã tátil são alimentados por energia proveniente da bateria. Esta energia vem de uma fonte de energia.
